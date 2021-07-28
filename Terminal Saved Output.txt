@@ -1,0 +1,87 @@
+----------- [ Perpendicular Test ] -----------
+[ Test 1 ] True
+[ Test 2 ] True
+[ Test 3 ] True
+[ Test 4 ] True
+[ Test 5 ] True
+[ Test 6 ] True
+[ Test 7 ] True
+[ Test 8 ] True
+[ Test 9 ] True
+[ Test 10 ] True
+[ Test 11 ] True
+[ Test 12 ] True
+[ Test 13 ] True
+[ Test 14 ] True
+[ Test 15 ] True
+[ Test 16 ] True
+[ Test 17 ] True
+[ Test 18 ] True
+[ Test 19 ] True
+[ Test 20 ] True
+
+----------- [ Skew Test ] -----------
+[ Test 1 ] True
+[ Test 2 ] True
+[ Test 3 ] True
+[ Test 4 ] True
+[ Test 5 ] True
+[ Test 6 ] True
+[ Test 7 ] True
+[ Test 8 ] True
+[ Test 9 ] True
+[ Test 10 ] True
+[ Test 11 ] True
+[ Test 12 ] True
+[ Test 13 ] True
+[ Test 14 ] True
+[ Test 15 ] True
+[ Test 16 ] True
+[ Test 17 ] True
+[ Test 18 ] True
+[ Test 19 ] True
+[ Test 20 ] True
+
+----------- [ Parallel Test ] -----------
+[ Test 1 ] True
+[ Test 2 ] True
+[ Test 3 ] True
+[ Test 4 ] True
+[ Test 5 ] True
+[ Test 6 ] True
+[ Test 7 ] True
+[ Test 8 ] True
+[ Test 9 ] True
+[ Test 10 ] True
+[ Test 11 ] True
+[ Test 12 ] True
+[ Test 13 ] True
+[ Test 14 ] True
+[ Test 15 ] True
+[ Test 16 ] True
+[ Test 17 ] True
+[ Test 18 ] True
+[ Test 19 ] True
+[ Test 20 ] True
+
+----------- [ Intersect Test ] -----------
+[ Test 1 ] True
+[ Test 2 ] True
+[ Test 3 ] True
+[ Test 4 ] True
+[ Test 5 ] True
+[ Test 6 ] True
+[ Test 7 ] True
+[ Test 8 ] True
+[ Test 9 ] True
+[ Test 10 ] True
+[ Test 11 ] True
+[ Test 12 ] True
+[ Test 13 ] True
+[ Test 14 ] True
+[ Test 15 ] True
+[ Test 16 ] True
+[ Test 17 ] True
+[ Test 18 ] True
+[ Test 19 ] True
+[ Test 20 ] True
